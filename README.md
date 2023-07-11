@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Segaman
 - 👀 I’m interested in Sega Genesis/Mega Drive indie gamedev, Speedruning, Streaming, Video making.
-- 🌱 I’m currently learning Python, PHP, Javascript, 3D modeling, Pixel Art.
+- 🌱 I’m currently learning 3D modeling, Pixel Art, OBS Plugins.
 - 📫 How to reach me: https://segaman.top/
 
 <!---
