@@ -1,9 +1,14 @@
-- 👋 Hi, I’m Segaman
-- 👀 I’m interested in Sega Genesis/Mega Drive indie gamedev, Speedruning, Streaming, Video making.
-- 🌱 I’m currently learning 3D modeling, Pixel Art, OBS Plugins.
-- 📫 How to reach me: https://segaman.com/
+Professional programmer with 10 years of experience in developing C++ applications using the Qt framework. Experienced in creating user interfaces, data management and performance optimization
 
-<!---
-Segaman8/Segaman8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My skills:
+
+🌟C\C++ Software Engineer since 2014
+🌟Windows, Linux, QT framework, Cmake, SQLite/PostgreSQL
+🌟Qt Widgets/QML apps
+
+✅Flexible and fast object oriented code
+✅Platform independent code
+✅Unit tests (GTest)
+✅Basic 3D Modeling, Video Montage, IoT, Godot
+
+🔥C/C++, Python, Assembly (m68k,16bit), Cmake/Make, Qt/QML, HTML/PHP/CSS/JS, SQLite/PostgreSQL, Linux/Windows/Android(QT)
